@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/07/03 11:38:50.000.198,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/07/19 22:22:12.000.288,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/08/08 10:30:44.000.268,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/08/08 10:32:17.000.636,C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.fmx=D:\SourceCode\CrossLibrary\Projects_FireMonkey\Dan FireMonkey\網路 藍芽 NFC\BtBuzzer\Main.fmx</Transaction>
+    <Transaction>2017/08/08 10:32:17.000.636,C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\SourceCode\CrossLibrary\Projects_FireMonkey\Dan FireMonkey\網路 藍芽 NFC\BtBuzzer\Main.pas</Transaction>
+    <Transaction>2017/08/08 10:33:52.000.862,C:\Users\user\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\SourceCode\CrossLibrary\Projects_FireMonkey\Dan FireMonkey\網路 藍芽 NFC\AndroiDuinoPiano\AndroiDuinoPiano.dproj</Transaction>
+    <Transaction>2017/08/08 14:03:00.000.527,D:\SourceCode\CrossLibrary\Projects_FireMonkey\Dan FireMonkey\網路 藍芽 NFC\BtBuzzer\Main.pas=D:\SourceCode\CrossLibrary\Projects_FireMonkey\Dan FireMonkey\網路 藍芽 NFC\AndroiDuinoPiano\Main.pas</Transaction>
+    <Transaction>2017/08/08 14:03:00.000.527,D:\SourceCode\CrossLibrary\Projects_FireMonkey\Dan FireMonkey\網路 藍芽 NFC\BtBuzzer\Main.fmx=D:\SourceCode\CrossLibrary\Projects_FireMonkey\Dan FireMonkey\網路 藍芽 NFC\AndroiDuinoPiano\Main.fmx</Transaction>
+    <Transaction>2017/08/09 13:06:45.000.603,=D:\Temp\單音音效\Piano\三個音階\014_Do2s.mp3</Transaction>
+    <Transaction>2017/08/09 13:06:45.000.838,=D:\Temp\單音音效\Piano\三個音階\019_Fa2s.mp3</Transaction>
+    <Transaction>2017/08/09 13:06:45.000.635,=D:\Temp\單音音效\Piano\三個音階\015_Re2.mp3</Transaction>
+    <Transaction>2017/08/09 13:06:45.000.575,=D:\Temp\單音音效\Piano\三個音階\013_Do2.mp3</Transaction>
+    <Transaction>2017/08/09 13:06:45.000.671,=D:\Temp\單音音效\Piano\三個音階\016_Re2s.mp3</Transaction>
+    <Transaction>2017/08/09 13:06:45.000.978,=D:\Temp\單音音效\Piano\三個音階\021_So2s.mp3</Transaction>
+    <Transaction>2017/08/09 13:06:45.000.730,=D:\Temp\單音音效\Piano\三個音階\017_Mi2.mp3</Transaction>
+    <Transaction>2017/08/09 13:06:45.000.906,=D:\Temp\單音音效\Piano\三個音階\020_So2.mp3</Transaction>
+    <Transaction>2017/08/09 13:06:45.000.783,=D:\Temp\單音音效\Piano\三個音階\018_Fa2.mp3</Transaction>
+    <Transaction>2017/08/09 13:06:46.000.182,=D:\Temp\單音音效\Piano\三個音階\024_Si2.mp3</Transaction>
+    <Transaction>2017/08/09 13:06:46.000.321,=D:\Temp\單音音效\Piano\三個音階\026_Do3s.mp3</Transaction>
+    <Transaction>2017/08/09 13:06:46.000.115,=D:\Temp\單音音效\Piano\三個音階\023_La2s.mp3</Transaction>
+    <Transaction>2017/08/09 13:06:46.000.991,=D:\Temp\單音音效\Piano\三個音階\033_So3s.mp3</Transaction>
+    <Transaction>2017/08/09 13:06:46.000.587,=D:\Temp\單音音效\Piano\三個音階\029_Mi3.mp3</Transaction>
+    <Transaction>2017/08/09 13:06:46.000.890,=D:\Temp\單音音效\Piano\三個音階\032_So3.mp3</Transaction>
+    <Transaction>2017/08/09 13:06:46.000.048,=D:\Temp\單音音效\Piano\三個音階\022_La2.mp3</Transaction>
+    <Transaction>2017/08/09 13:06:46.000.692,=D:\Temp\單音音效\Piano\三個音階\030_Fa3.mp3</Transaction>
+    <Transaction>2017/08/09 13:06:46.000.407,=D:\Temp\單音音效\Piano\三個音階\027_Re3.mp3</Transaction>
+    <Transaction>2017/08/09 13:06:46.000.490,=D:\Temp\單音音效\Piano\三個音階\028_Re3s.mp3</Transaction>
+    <Transaction>2017/08/09 13:06:46.000.795,=D:\Temp\單音音效\Piano\三個音階\031_Fa3s.mp3</Transaction>
+    <Transaction>2017/08/09 13:06:46.000.248,=D:\Temp\單音音效\Piano\三個音階\025_Do3.mp3</Transaction>
+    <Transaction>2017/08/09 13:06:47.000.097,=D:\Temp\單音音效\Piano\三個音階\034_La3.mp3</Transaction>
+    <Transaction>2017/08/09 13:06:47.000.217,=D:\Temp\單音音效\Piano\三個音階\035_La3s.mp3</Transaction>
+    <Transaction>2017/08/09 13:06:47.000.947,=D:\Temp\單音音效\Piano\三個音階\040_Re4s.mp3</Transaction>
+    <Transaction>2017/08/09 13:06:47.000.347,=D:\Temp\單音音效\Piano\三個音階\036_Si3.mp3</Transaction>
+    <Transaction>2017/08/09 13:06:47.000.661,=D:\Temp\單音音效\Piano\三個音階\038_Do4s.mp3</Transaction>
+    <Transaction>2017/08/09 13:06:47.000.511,=D:\Temp\單音音效\Piano\三個音階\037_Do4.mp3</Transaction>
+    <Transaction>2017/08/09 13:06:47.000.808,=D:\Temp\單音音效\Piano\三個音階\039_Re4.mp3</Transaction>
+    <Transaction>2017/08/09 13:06:48.000.593,=D:\Temp\單音音效\Piano\三個音階\044_So4.mp3</Transaction>
+    <Transaction>2017/08/09 13:06:48.000.104,=D:\Temp\單音音效\Piano\三個音階\041_Mi4.mp3</Transaction>
+    <Transaction>2017/08/09 13:06:48.000.429,=D:\Temp\單音音效\Piano\三個音階\043_Fa4s.mp3</Transaction>
+    <Transaction>2017/08/09 13:06:48.000.279,=D:\Temp\單音音效\Piano\三個音階\042_Fa4.mp3</Transaction>
+    <Transaction>2017/08/09 13:06:48.000.778,=D:\Temp\單音音效\Piano\三個音階\045_So4s.mp3</Transaction>
+    <Transaction>2017/08/09 13:06:49.000.285,=D:\Temp\單音音效\Piano\三個音階\047_La4s.mp3</Transaction>
+    <Transaction>2017/08/09 13:06:49.000.537,=D:\Temp\單音音效\Piano\三個音階\048_Si4.mp3</Transaction>
+    <Transaction>2017/08/09 13:06:49.000.024,=D:\Temp\單音音效\Piano\三個音階\046_La4.mp3</Transaction>
+    <Transaction>2017/08/09 15:54:06.000.792,D:\Temp\單音音效\Piano\三個音階\019_Fa2s.mp3=</Transaction>
+    <Transaction>2017/08/09 15:54:06.000.661,D:\Temp\單音音效\Piano\三個音階\016_Re2s.mp3=</Transaction>
+    <Transaction>2017/08/09 15:54:06.000.877,D:\Temp\單音音效\Piano\三個音階\018_Fa2.mp3=</Transaction>
+    <Transaction>2017/08/09 15:54:06.000.958,D:\Temp\單音音效\Piano\三個音階\015_Re2.mp3=</Transaction>
+    <Transaction>2017/08/09 15:54:07.000.033,D:\Temp\單音音效\Piano\三個音階\013_Do2.mp3=</Transaction>
+    <Transaction>2017/08/09 15:55:24.000.845,D:\Temp\單音音效\Piano\三個音階\038_Do4s.mp3=</Transaction>
+    <Transaction>2017/08/09 15:55:24.000.923,D:\Temp\單音音效\Piano\三個音階\035_La3s.mp3=</Transaction>
+    <Transaction>2017/08/09 15:55:24.000.770,D:\Temp\單音音效\Piano\三個音階\047_La4s.mp3=</Transaction>
+    <Transaction>2017/08/09 15:55:25.000.254,D:\Temp\單音音效\Piano\三個音階\045_So4s.mp3=</Transaction>
+    <Transaction>2017/08/09 15:55:25.000.098,D:\Temp\單音音效\Piano\三個音階\031_Fa3s.mp3=</Transaction>
+    <Transaction>2017/08/09 15:55:25.000.844,D:\Temp\單音音效\Piano\三個音階\030_Fa3.mp3=</Transaction>
+    <Transaction>2017/08/09 15:55:25.000.550,D:\Temp\單音音效\Piano\三個音階\044_So4.mp3=</Transaction>
+    <Transaction>2017/08/09 15:55:25.000.497,D:\Temp\單音音效\Piano\三個音階\046_La4.mp3=</Transaction>
+    <Transaction>2017/08/09 15:55:25.000.752,D:\Temp\單音音效\Piano\三個音階\036_Si3.mp3=</Transaction>
+    <Transaction>2017/08/09 15:55:25.000.176,D:\Temp\單音音效\Piano\三個音階\021_So2s.mp3=</Transaction>
+    <Transaction>2017/08/09 15:55:25.000.010,D:\Temp\單音音效\Piano\三個音階\033_So3s.mp3=</Transaction>
+    <Transaction>2017/08/09 15:55:25.000.942,D:\Temp\單音音效\Piano\三個音階\024_Si2.mp3=</Transaction>
+    <Transaction>2017/08/09 15:55:25.000.920,D:\Temp\單音音效\Piano\三個音階\025_Do3.mp3=</Transaction>
+    <Transaction>2017/08/09 15:55:25.000.980,D:\Temp\單音音效\Piano\三個音階\020_So2.mp3=</Transaction>
+    <Transaction>2017/08/09 15:55:25.000.721,D:\Temp\單音音效\Piano\三個音階\037_Do4.mp3=</Transaction>
+    <Transaction>2017/08/09 15:55:25.000.401,D:\Temp\單音音效\Piano\三個音階\014_Do2s.mp3=</Transaction>
+    <Transaction>2017/08/09 15:55:25.000.784,D:\Temp\單音音效\Piano\三個音階\034_La3.mp3=</Transaction>
+    <Transaction>2017/08/09 15:55:25.000.995,D:\Temp\單音音效\Piano\三個音階\017_Mi2.mp3=</Transaction>
+    <Transaction>2017/08/09 15:55:25.000.895,D:\Temp\單音音效\Piano\三個音階\027_Re3.mp3=</Transaction>
+    <Transaction>2017/08/09 15:55:25.000.450,D:\Temp\單音音效\Piano\三個音階\048_Si4.mp3=</Transaction>
+    <Transaction>2017/08/09 15:55:25.000.606,D:\Temp\單音音效\Piano\三個音階\042_Fa4.mp3=</Transaction>
+    <Transaction>2017/08/09 15:55:25.000.814,D:\Temp\單音音效\Piano\三個音階\032_So3.mp3=</Transaction>
+    <Transaction>2017/08/09 15:55:25.000.686,D:\Temp\單音音效\Piano\三個音階\039_Re4.mp3=</Transaction>
+    <Transaction>2017/08/09 15:55:25.000.332,D:\Temp\單音音效\Piano\三個音階\043_Fa4s.mp3=</Transaction>
+    <Transaction>2017/08/09 15:55:25.000.648,D:\Temp\單音音效\Piano\三個音階\041_Mi4.mp3=</Transaction>
+    <Transaction>2017/08/09 15:55:25.000.869,D:\Temp\單音音效\Piano\三個音階\029_Mi3.mp3=</Transaction>
+    <Transaction>2017/08/09 15:55:25.000.960,D:\Temp\單音音效\Piano\三個音階\022_La2.mp3=</Transaction>
+    <Transaction>2017/08/09 15:55:26.000.028,D:\Temp\單音音效\Piano\三個音階\026_Do3s.mp3=</Transaction>
+    <Transaction>2017/08/09 15:55:26.000.056,=D:\Temp\單音音效\Piano\36_Notes.mp3</Transaction>
+    <Transaction>2017/08/09 15:55:26.000.036,D:\Temp\單音音效\Piano\三個音階\023_La2s.mp3=</Transaction>
+    <Transaction>2017/08/09 15:55:26.000.008,D:\Temp\單音音效\Piano\三個音階\040_Re4s.mp3=</Transaction>
+    <Transaction>2017/08/09 15:55:26.000.019,D:\Temp\單音音效\Piano\三個音階\028_Re3s.mp3=</Transaction>
+    <Transaction>2017/08/09 18:48:37.000.541,D:\Temp\單音音效\Piano\36_Notes.mp3=</Transaction>
+    <Transaction>2017/08/09 18:48:37.000.579,=D:\Temp\單音音效\Piano\48_Notes.mp3</Transaction>
+    <Transaction>2017/08/10 09:51:58.000.057,D:\Temp\單音音效\Piano\48_Notes.mp3=</Transaction>
+    <Transaction>2017/08/10 09:52:59.000.315,=D:\SourceCode\CrossLibrary\Projects_FireMonkey\Dan FireMonkey\網路 藍芽 NFC\AndroiDuinoPiano\Resource\48_Notes.mp3</Transaction>
+    <Transaction>2017/08/11 15:04:35.000.521,D:\SourceCode\CrossLibrary\Projects_FireMonkey\Dan FireMonkey\網路 藍芽 NFC\AndroiDuinoPiano\AndroiDuinoPiano.dproj=D:\SourceCode\CrossLibrary\Projects_FireMonkey\Dan FireMonkey\網路 藍芽 NFC\AndroiDuinoPiano\RvPiano.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android="AVD_for_AsusZF3_Device"/>
+		<PIPhoneSimulater iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+	<BT_BuildType>AppStore</BT_BuildType>
+</BorlandProject>
