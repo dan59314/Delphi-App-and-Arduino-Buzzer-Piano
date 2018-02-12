@@ -45,6 +45,13 @@
   
   
   ---------------------------------------------------------------------------------
+  
+  
+Introduction, document, videos....
+
+https://www.instructables.com/member/Daniel%20Lu/instructables/
+
+
 
 Androiduino Piano.  
       手機鋼琴 彈奏和錄製 音樂，然後將音樂透過藍芽發送到 Arduino buzzer 播放.
