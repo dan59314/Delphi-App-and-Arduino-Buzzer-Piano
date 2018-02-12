@@ -61,9 +61,11 @@ Instructables 完整教學:  https://www.instructables.com/id/RvPiano-Music-From
 
       最近為了編寫 Arduino button 點擊 和 Ultrasonic 手勢控制功能，用 buzzer 播放音樂 來驗證控制效果。
 
-     接著又繼續寫了 Windows 和 Android  鋼琴app, 用來彈奏並錄製歌曲,  準備透過 PC Serial,或手機藍芽 將歌曲傳送到 Arduino buzzer 播放，以後就可以隨時更新 Arduino 裝置上的個音樂了。影片如下，請打開音效。
+      接著又繼續寫了 Windows 和 Android  鋼琴app, 用來彈奏並錄製歌曲,  準備透過 PC Serial,或手機藍芽 將歌曲傳送到 Arduino buzzer 播放，
+      以後就可以隨時更新 Arduino 裝置上的個音樂了。影片如下，請打開音效。
 
-      另外，目前 Button 和 Ultrasonic  已寫好的控制功能和手勢功能如下，控制效果良好，過一陣子會包裝好 Arduino library, 和完整範例 提供給大家下載，敬請關注。到粉絲頁按讚以便更新時收到通知。
+      另外，目前 Button 和 Ultrasonic  已寫好的控制功能和手勢功能如下，控制效果良好，過一陣子會包裝好 Arduino library, 
+      和完整範例 提供給大家下載，敬請關注。到粉絲頁按讚以便更新時收到通知。
 
        Button :  支援三個觸發事件
              buttonDown();  
