@@ -61,7 +61,9 @@ Instructables 完整教學:  https://www.instructables.com/id/RvPiano-Music-From
 影片:
       超音波手勢控制影片 : https://goo.gl/4cxYoD
 
-      錄製、播放、存、讀、發送 音樂:  https://goo.gl/fJDCCn
+      錄製、播放、存、讀、發送 音樂: 
+   https://goo.gl/fJDCCn
+      
 
 下載處:
       http://www.rasvector.url.tw/Download%20Pages/Download_Arduino.htm
