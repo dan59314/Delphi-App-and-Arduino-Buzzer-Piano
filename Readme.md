@@ -51,6 +51,16 @@ Introduction, document, videos....
 
 https://www.instructables.com/member/Daniel%20Lu/instructables/
 
+https://youtu.be/L2_Zm7Z6WJY
+
+
+[![Arduino Buzzer](https://cdn.instructables.com/FUX/H2FC/J6IF9IK8/FUXH2FCJ6IF9IK8.LARGE.jpg)](https://youtu.be/L2_Zm7Z6WJY?t=0s "Arduino Buzzer") 
+
+[![Piano App](https://cdn.instructables.com/FF1/78Z2/J6IF9IKE/FF178Z2J6IF9IKE.MEDIUM.jpg)](https://youtu.be/gBFe9FlE-GY?t=0s "PIano App") 
+
+![image](https://cdn.instructables.com/FUB/QABH/J6MGE8H8/FUBQABHJ6MGE8H8.LARGE.jpg)
+
+![image](https://cdn.instructables.com/F6D/QY7U/J6IF9IK6/F6DQY7UJ6IF9IK6.SMALL.jpg)
 
 
 Androiduino Piano.  
