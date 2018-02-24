@@ -47,10 +47,10 @@
   ---------------------------------------------------------------------------------
   
   
-Introduction, document, videos....
+[Instructables :](https://www.instructables.com/member/Daniel%20Lu/instructables/)
 
-https://www.instructables.com/member/Daniel%20Lu/instructables/
-![image](https://github.com/dan59314/Pulse-Sensor-Arduino/blob/master/Instructables01.JPG)
+[![Instructables ](https://github.com/dan59314/Pulse-Sensor-Arduino/blob/master/Instructables01.JPG)](https://www.instructables.com/member/Daniel%20Lu/instructables/ "Instructables") 
+
 
 https://youtu.be/L2_Zm7Z6WJY
 
